@@ -17,3 +17,7 @@ nav:
   - Visão Geral e Dicionário: eda/dicionario.md
   - Análise Univariada: eda/univariada.md
   - Análise Bivariada: eda/bivariada.md
+  - Análise Multivariada e Outliers: eda/multivariada.md
+  - Redução de Dimensionalidade (PCA): eda/pca.md
+  - Pipeline de Pré-processamento: eda/pipeline.md
+  - Conclusão: conclusao.md
