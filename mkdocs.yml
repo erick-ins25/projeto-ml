@@ -1,0 +1,19 @@
+site_name: Projeto ML - Predição de AVC
+site_description: Relatório de EDA e Pré-processamento (APS1)
+site_author: Erick Barbosa e Rafael Lemos
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+nav:
+  - Início: index.md
+  - Visão Geral e Dicionário: eda/dicionario.md
+  - Análise Univariada: eda/univariada.md
+  - Análise Bivariada: eda/bivariada.md
